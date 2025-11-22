@@ -1,0 +1,71 @@
+body{
+    background-color: gray;
+    font-size: 20px;
+}
+
+.TopLabel{
+    background-color: black;
+
+
+}
+
+.TopLabelText{
+    color: white;
+    font-size: 40px;
+    padding: 30px;
+    display: inline-block;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+}
+
+a:hover{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a:visited{
+    color: lightslategray;
+}
+
+a:link{
+    color: white;
+}
+
+
+#WorkEContainer{
+    margin-bottom: 70px;
+    background-color: lightslategrey;
+}
+
+#Accomplishment{
+    margin-bottom: 70px;
+    background-color: lightslategray;
+}
+
+#Aspire{
+    margin-bottom: 70px;
+    background-color: lightslategray;
+}
+
+#whoami{
+    background-color: lightslategray;
+
+}
+
+#highlightT{
+    background-color: yellowgreen;
+ 
+}
+
+#CurrentGrades{
+    background-color: lightslategray;
+}
+
+#highT{
+    text-align: center;
+    background-color: yellowgreen;
+    border: solid;
+
+}
+
+ 

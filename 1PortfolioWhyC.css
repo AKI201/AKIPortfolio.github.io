@@ -1,0 +1,36 @@
+#whyToplabel{
+    background-color: #36454F;
+}
+
+
+
+body{
+    color: #bcab79;
+}
+
+.whyText{
+    font-size: 60px;
+    margin: 40px;
+}
+
+a{
+    color: #bcab79;
+}
+
+#whysection{
+    background-color: #36454F;
+    font-size: 20px;
+    color: #bcab79;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    padding-top: 2px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+}
+
+
+#CI{
+
+    height: 200px;
+    width: 300px;
+}

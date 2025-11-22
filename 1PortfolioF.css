@@ -1,0 +1,119 @@
+body{
+    background-color: lightgray;
+}
+
+
+#TopHeader{
+    text-align: center;
+    background-color:#A3B8C6;
+}
+
+#ContactLink{
+
+    padding-right: 75px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #5A6E7F;
+
+
+}
+
+#AboutLink{
+
+    font-size: 75px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2C3E50;
+
+}
+
+#ProjectsLink{
+
+    padding-left: 75px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #5A6E7F;
+
+
+    font-size: 50px;
+
+}
+
+
+
+
+
+#Description{
+    border-style: solid;
+ 
+
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 40px;
+    margin-bottom: 100px;
+ 
+    width: 25%;
+    float: left;
+}
+
+
+
+#NameLabel{
+    text-align: center;
+    margin-right: 600px;
+    margin-left: 500px;
+    font-size: 40px;
+    line-height: 10px;
+    max-width: fit-content;
+    border-style: solid;
+    float:inline-start;
+    padding: 20px;
+    
+}
+
+.name{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#CranfordLabel {
+    margin-top: -540px;  
+    padding-right: 40px;
+    padding-left: 30px;
+    line-height: 10px;
+    font-size: 40px;
+    text-align: right;   
+    margin-left: 150px;
+    border-style: solid;
+    margin-right: 100px;
+    float: right;
+ 
+
+}
+
+
+
+
+#WhyCompany {
+    background-color: grey;
+    font-size: 30px;
+    border-style: solid;
+    padding: 10px;  
+    margin: 60px;
+    display: inline-block;  
+    color: midnightblue;
+    margin: 30px;
+ 
+}
+
+a:hover{
+    color: maroon;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.namez{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+
+}
+ 
+

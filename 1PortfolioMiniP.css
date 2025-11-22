@@ -1,0 +1,75 @@
+#miniPNav{
+
+    background-color: #1F2937;
+    
+}
+
+.miniPnavT{
+    color: #F9FAFB;
+    font-size: 60px;
+    padding: 60px;
+ 
+}
+
+body{
+    background-color: #E5E7EB;
+}
+
+a{
+    color: #F9FAFB;;
+
+}
+
+a:hover{
+    color: red;
+}
+
+#PythonSector{
+    display: inline-block;
+    font-size: 30px;
+    line-height: 5px;
+
+
+    border-style: solid;
+
+    margin: 13px;
+    padding: 30px;
+
+
+    
+}
+
+#cppSector{
+
+    display: inline-block;
+    font-size: 30px;
+    line-height: 5px;
+
+
+    border-style: solid;
+
+    margin: 13px;
+    padding-bottom: 20px;
+    padding: 30px;
+ 
+
+}
+
+#csector{
+
+    display: inline-block;
+    font-size: 30px;
+    line-height: 5px;
+
+
+    border-style: solid;
+
+    margin: 13px;
+    padding-bottom: 20px;
+    padding: 30px;
+
+}
+
+#Glink{
+    color:blue;
+}
